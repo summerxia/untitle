@@ -1467,4 +1467,9 @@ class Solution {
         return Math.min(result, nums[0]);
     }
 
+    void test( ){
+
+
+    }
+
 }
